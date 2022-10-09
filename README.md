@@ -10,4 +10,6 @@
 
 https://www.showwcase.com/show/17606/react-reouter-dom-outlet
 
+https://www.showwcase.com/show/17615/react-outlet-blog
+
 https://www.youtube.com/watch?v=4DE3Qb9ZVko
